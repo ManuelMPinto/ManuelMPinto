@@ -19,7 +19,7 @@ I'm actively learning and improving my skills in the following areas:
 
 I am building repositories to showcase my projects, where I apply what I've learned and continuously seek to improve my skills. 
 
-My [portfolio](#https://github.com/ManuelMPinto/Projects/blob/main/README.md#sql), where I showcase my projects.
+My [portfolio] (#https://github.com/ManuelMPinto/Projects/blob/main/README.md), where I showcase my projects.
 
 
 ## 🎯 Career Goals
