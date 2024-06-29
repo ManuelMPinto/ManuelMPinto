@@ -18,6 +18,7 @@ I'm actively learning and improving my skills in the following areas:
 ## Projects
 
 I am building repositories to showcase my projects, where I apply what I've learned and continuously seek to improve my skills. 
+
 My [portfolio](#), where I showcase my projects.
 
 
