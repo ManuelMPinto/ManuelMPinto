@@ -1,4 +1,4 @@
-# Hi there, I'm Manuel Pinto
+# Hello there, I'm Manuel Pinto
 
 ## 💡 About Me
 
