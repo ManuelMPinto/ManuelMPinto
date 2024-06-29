@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Manuel Pinto, and I recently completed my bachelor's degree in Aquatic Sciences. Currently, I am currently working part-time in seasonal/temporary positions while I pursue my passion for data analytics. 
+I'm Manuel Pinto, and I recently completed my bachelor's degree in Aquatic Sciences. Currently pursuing my passion for data analytics. 
 I am an enthusiastic learner with a deep curiosity to constantly leanr new things. Also have a passion for puzzle solving, which I find is a perfect match for the field of data analytics.
 
 ## Skills and Tools
