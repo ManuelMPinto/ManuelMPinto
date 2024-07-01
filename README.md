@@ -3,7 +3,7 @@
 ## 💡 About Me
 
 I'm Manuel Pinto, and I recently completed my bachelor's degree in Aquatic Sciences. Currently pursuing my passion for data analytics. 
-I am an enthusiastic learner with a deep curiosity to constantly leanr new things. Also have a passion for puzzle solving, which I find is a perfect match for the field of data analytics.
+I am an enthusiastic learner with a deep curiosity to constantly learn new things. Also have a passion for puzzle solving, which I find is a perfect match for the field of data analytics.
 
 ## 🔧 Skills and Tools
 
