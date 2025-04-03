@@ -13,7 +13,7 @@ I'm actively learning and improving my skills in the following areas:
 - **SQL**: For database management and querying.
 - **Python**: For data analysis and visualization.
 - **R**: For statistical analysis and data visualization.
-- **Tableau**: For creating interactive and insightful visualizations.
+- **Tableau and Power BI**: For creating interactive and insightful visualizations.
 - **Excel**: For data manipulation and analysis.
 
 ## 📚 Projects
